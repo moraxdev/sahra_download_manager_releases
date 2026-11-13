@@ -1,14 +1,14 @@
 {
   "windows": {
-    "build": 6,
-    "version": "0.4.0",
-    "notes": "Whole playlists, subtitles in the video, preview while downloading, convert finished files to MP4/MKV/MP3/M4A/WAV.",
+    "build": 7,
+    "version": "0.5.0",
+    "notes": "LinkGrabber: paste many links or a page and pick the files; archive parts grouped and unpacked by themselves with your saved passwords.",
     "force": false,
     "minBuild": 0,
     "setup": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.4.0.exe",
-      "signature": "376f4b2c78e6bbb0c3536c3806ebbbd2e0693d04143964eecca609721f974c7b5375e31ab080c87aec19649dc52633f6e80d26540d981019ee2ce12bc7b5c30c",
-      "size": 4075843
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.5.0.exe",
+      "signature": "9d70870bd75b0388093bf24ced5ae1481e27396b70ce65ad3f73ed6f3bfef93e8f3d87cc99073bb05cfe3ae06a8392bab500109705e33e968ecbc465819bf605",
+      "size": 4104374
     }
   }
 }
