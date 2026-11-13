@@ -1,14 +1,14 @@
 {
   "windows": {
-    "build": 4,
-    "version": "0.2.2",
-    "notes": "YouTube videos now list their qualities. The Download video button shows and hides with the video controls.",
+    "build": 5,
+    "version": "0.3.0",
+    "notes": "Downloads sorted into folders by type, night schedule, speed limit, priorities, change an expired link, sleep or shut down when all downloads finish.",
     "force": false,
     "minBuild": 0,
     "setup": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.2.2.exe",
-      "signature": "2ed0c2361220a0351ce1923b873bb115fceef90fbd5dea3a56c91d374151ef8627da492361773c462f2c2b0861c633aecef65508efef493f2388b3b2088bb503",
-      "size": 4014137
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.3.0.exe",
+      "signature": "632ee2ed566384a817ce48b633b39b8f9304c08584413152b3587f04a19ca3e41b17d0f3ce4590733a05498a63374a8ad824974f77db43c4fb9c4fac00c0c903",
+      "size": 4033410
     }
   }
 }
