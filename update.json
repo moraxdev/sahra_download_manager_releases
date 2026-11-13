@@ -1,0 +1,17 @@
+{
+  "windows": {
+    "build": 1,
+    "version": "0.1.0",
+    "notes": "First release: multi-connection downloads, pause and resume, queue, tray and start with Windows.",
+    "force": false,
+    "minBuild": 0,
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/sahra-download-manager-0.1.0.exe",
+    "signature": "1c42aed1c5736e4c9073552b842043100fdae0badfabdf4d9d87ee8383c98927f802de2e4879a3269bbfdd4bdd8f0fe43d48afed0cb7aaf0fe31c8a237f16901",
+    "size": 4320256,
+    "onefile": {
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/sahra-download-manager-0.1.0.exe",
+      "signature": "1c42aed1c5736e4c9073552b842043100fdae0badfabdf4d9d87ee8383c98927f802de2e4879a3269bbfdd4bdd8f0fe43d48afed0cb7aaf0fe31c8a237f16901"
+    },
+    "setup": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.1.0.exe"
+  }
+}
