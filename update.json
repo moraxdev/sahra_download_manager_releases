@@ -1,14 +1,14 @@
 {
   "windows": {
-    "build": 5,
-    "version": "0.3.0",
-    "notes": "Downloads sorted into folders by type, night schedule, speed limit, priorities, change an expired link, sleep or shut down when all downloads finish.",
+    "build": 6,
+    "version": "0.4.0",
+    "notes": "Whole playlists, subtitles in the video, preview while downloading, convert finished files to MP4/MKV/MP3/M4A/WAV.",
     "force": false,
     "minBuild": 0,
     "setup": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.3.0.exe",
-      "signature": "632ee2ed566384a817ce48b633b39b8f9304c08584413152b3587f04a19ca3e41b17d0f3ce4590733a05498a63374a8ad824974f77db43c4fb9c4fac00c0c903",
-      "size": 4033410
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.4.0.exe",
+      "signature": "376f4b2c78e6bbb0c3536c3806ebbbd2e0693d04143964eecca609721f974c7b5375e31ab080c87aec19649dc52633f6e80d26540d981019ee2ce12bc7b5c30c",
+      "size": 4075843
     }
   }
 }
