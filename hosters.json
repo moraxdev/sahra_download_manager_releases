@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "hosters": [
+    {
+      "name": "Google Drive",
+      "match": "^https?://(drive|docs)\\.google\\.com/",
+      "steps": [
+        { "rewrite": ".*(?:/d/|[?&]id=)([\\w-]{20,}).*", "to": "https://drive.usercontent.google.com/download?id=$1&export=download" },
+        { "page": true },
+        { "form": "download" }
+      ]
+    },
+    {
+      "name": "Dropbox",
+      "match": "^https?://(www\\.)?dropbox\\.com/",
+      "steps": [ { "query": { "dl": "1" } } ]
+    },
+    {
+      "name": "MediaFire",
+      "match": "^https?://(www\\.)?mediafire\\.com/(file|file_premium|download)/",
+      "steps": [
+        { "page": true },
+        { "find": "href=\"(https?://download\\d*\\.mediafire\\.com/[^\"]+)\"" }
+      ]
+    },
+    {
+      "name": "Pixeldrain",
+      "match": "^https?://(www\\.)?pixeldrain\\.com/u/",
+      "steps": [ { "rewrite": ".*/u/([A-Za-z0-9]+).*", "to": "https://pixeldrain.com/api/file/$1?download" } ]
+    },
+    {
+      "name": "OneDrive",
+      "match": "^https?://(1drv\\.ms|onedrive\\.live\\.com)/",
+      "steps": [ { "query": { "download": "1" } } ]
+    }
+  ]
+}
