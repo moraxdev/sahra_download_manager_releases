@@ -1,17 +1,14 @@
 {
   "windows": {
-    "build": 2,
-    "version": "0.2.0",
-    "notes": "Video downloads from YouTube and most sites with quality choice, browser extension for Chrome/Edge, copied links offered for download.",
+    "build": 3,
+    "version": "0.2.1",
+    "notes": "Works like a normal installed app: fixes antivirus warnings (Kaspersky). Updates now install through the setup.",
     "force": false,
     "minBuild": 0,
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/sahra-download-manager-0.2.0.exe",
-    "signature": "a408071f13dc377577663ba5ee9810e40f8762d4ca97ef3cf00e623dfcbda7fe8ad2074aeb7a65da13445e035d07217e4396672e28271522fbcbff5a26c0f90f",
-    "size": 4433408,
-    "onefile": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/sahra-download-manager-0.2.0.exe",
-      "signature": "a408071f13dc377577663ba5ee9810e40f8762d4ca97ef3cf00e623dfcbda7fe8ad2074aeb7a65da13445e035d07217e4396672e28271522fbcbff5a26c0f90f"
-    },
-    "setup": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.2.0.exe"
+    "setup": {
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.2.1.exe",
+      "signature": "7c487e45e404592bda1789cf9d2e5387d5beeb55cddcbe9fe4e60e7172fb074629f73f3f663f153180582d0248d39d1a020277d8fbe00ca28cd14f74033ac106",
+      "size": 4011689
+    }
   }
 }
