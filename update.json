@@ -1,14 +1,14 @@
 {
   "windows": {
-    "build": 3,
-    "version": "0.2.1",
-    "notes": "Works like a normal installed app: fixes antivirus warnings (Kaspersky). Updates now install through the setup.",
+    "build": 4,
+    "version": "0.2.2",
+    "notes": "YouTube videos now list their qualities. The Download video button shows and hides with the video controls.",
     "force": false,
     "minBuild": 0,
     "setup": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.2.1.exe",
-      "signature": "7c487e45e404592bda1789cf9d2e5387d5beeb55cddcbe9fe4e60e7172fb074629f73f3f663f153180582d0248d39d1a020277d8fbe00ca28cd14f74033ac106",
-      "size": 4011689
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.2.2.exe",
+      "signature": "2ed0c2361220a0351ce1923b873bb115fceef90fbd5dea3a56c91d374151ef8627da492361773c462f2c2b0861c633aecef65508efef493f2388b3b2088bb503",
+      "size": 4014137
     }
   }
 }
