@@ -1,14 +1,14 @@
 {
   "windows": {
-    "build": 8,
-    "version": "0.6.0",
-    "notes": "File hosters (Google Drive, MediaFire, Dropbox, Pixeldrain, OneDrive), premium accounts from your browser login, and a Sahra browser window for captcha sites.",
+    "build": 9,
+    "version": "0.6.1",
+    "notes": "Steadier, faster downloads: no more speed jumps.",
     "force": false,
     "minBuild": 0,
     "setup": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.6.0.exe",
-      "signature": "b241a2ce789b5affffbf1c658ee1aba859f9da3e5101c675a7b6b6634c5d4ce30d2ff5d3dcbd065596a4dc3b0d401a9bb79d70387d84d1b40445233324acca06",
-      "size": 4441786
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.6.1.exe",
+      "signature": "30fff677072f86128db112d6a77d2deae8c6c7630e5a4ca067716762725196d64c91b827167cd41b370a6033e0cc82d856bdde091b85ae640c3cd567db8b3a0a",
+      "size": 4441562
     }
   }
 }
