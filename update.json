@@ -1,14 +1,14 @@
 {
   "windows": {
-    "build": 9,
-    "version": "0.6.1",
-    "notes": "Steadier, faster downloads: no more speed jumps.",
+    "build": 10,
+    "version": "0.6.2",
+    "notes": "Select many downloads at once. Remove from the list, or delete the files too.",
     "force": false,
     "minBuild": 0,
     "setup": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.6.1.exe",
-      "signature": "30fff677072f86128db112d6a77d2deae8c6c7630e5a4ca067716762725196d64c91b827167cd41b370a6033e0cc82d856bdde091b85ae640c3cd567db8b3a0a",
-      "size": 4441562
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra_download_manager_releases/main/files/Sahra-Download-Manager-Setup-0.6.2.exe",
+      "signature": "c9309d95527bcf27979caaa7d9acb5622906557bf593f96eb7033349ca899414ef335dde0e5e636a30803ef21338dce95baf29207fe3e4995e79908e2923bd06",
+      "size": 4442452
     }
   }
 }
